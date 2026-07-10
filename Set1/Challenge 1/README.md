@@ -1,4 +1,6 @@
 My code's workflow:
+
+
 Step 1: First it takes the text input from the user.
 
 Step 2: The variable decimal stores ASCII value of all characters of the provided string.
